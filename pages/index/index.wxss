@@ -1,0 +1,30 @@
+/**index.wxss**/
+.btn-whw {
+  display: flex;
+  width: 300rpx;
+  height: 300rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+  background-color: #808080;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-whq {
+  display: flex;
+  width: 300rpx;
+  height: 300rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+  background-color: #ffd700;
+  align-items: center;
+  justify-content: center;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}

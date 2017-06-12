@@ -1,0 +1,17 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="hstype">
+    <button class="btn1" >废旧电子</button>
+    <button class="btn2" >纸类</button>
+    <button class="btn3" >易拉罐</button>
+    <button class="btn4" >塑料瓶</button>
+  </view>
+</view>
+<view class="section">
+  <input  maxlength="12" placeholder="输入手机号" class="yy-phone"/>
+</view>
+<view class="classname">
+    <button type="primary" size="default" class="yy-submit">预约</button>
+  </view>
+
+

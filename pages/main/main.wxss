@@ -1,0 +1,62 @@
+/**index.wxss**/
+.hstype {
+    display:flex;
+    background-color: #FFFFFF;
+    margin-top: 20rpx;
+}
+.btn1 {
+  display: flex;
+  width: 160rpx;
+  height: 160rpx;
+  margin: 10rpx;
+  border-radius: 50%;
+  background-color: #ffd700;
+  align-items: center;
+  justify-content: center;
+  font-size: xx-small;
+}
+.btn2 {
+  display: flex;
+  width: 160rpx;
+  height: 160rpx;
+  margin: 10rpx;
+  border-radius: 50%;
+  background-color: #808080;
+  align-items: center;
+  justify-content: center;
+  font-size: xx-small;
+}
+.btn3 {
+  display: flex;
+  width: 160rpx;
+  height: 160rpx;
+  margin: 10rpx;
+  border-radius: 50%;
+  background-color: #ffd700;
+  align-items: center;
+  justify-content: center;
+  font-size: xx-small;
+}
+.btn4 {
+  display: flex;
+  width: 160rpx;
+  height: 160rpx;
+  margin: 10rpx;
+  border-radius: 50%;
+  background-color: #808080;
+  align-items: center;
+  justify-content: center;
+  font-size: xx-small;
+}
+
+.section{
+  display: flex;
+}
+.yy-submit {
+  margin: 10px;
+}
+.yy-phone {
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+}

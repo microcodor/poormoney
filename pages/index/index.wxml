@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <button  bindtap="towu" class="btn-whw">物</button>
+   <button  bindtap="toqian" class="btn-whq">钱</button>
+</view>
